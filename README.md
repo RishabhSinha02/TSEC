@@ -1,3 +1,1 @@
 # TSEC
-
-QB Answers
